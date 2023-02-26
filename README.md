@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arun12116
 - 👀 I’m interested in ..Web devlopemnet
-- 🌱  I’m currently learning MERN Stack Development
+- 🌱  I’m Front-end Developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..7258807043,yarunkumar136@gmail.com.
 
