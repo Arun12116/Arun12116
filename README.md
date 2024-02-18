@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Front-End Developer
+Hi, I'm a React.js Developer at a startup, specializing in front-end development. My role involves building user interfaces and implementing features to enhance user experience. I enjoy solving complex problems and collaborating with my team to deliver high-quality software products. With my expertise in React.js and front-end technologies, I contribute to creating innovative solutions that drive the success of our projects.
 
 
 ## 🌐 Socials:
